@@ -1,0 +1,56 @@
+html, body{
+    margin: 0;
+}
+
+
+#img_fundo {
+    text-align: center;
+    background: url("fundo\ de\ tela.jpg");
+    height: 50%;
+    padding-top: 25%;
+}
+#titulo {
+    color:black;
+    background-color: white;
+}
+#subtitulo {
+
+    color: black;
+    background-color: white;
+}
+
+#introdução{
+    padding-left: 10%;
+    padding-top: 5%;
+    padding-right: 10%;
+    text-align: justify;
+}
+
+#img_introdução{
+    padding-left: 35%;
+    height: 45%;
+    width: 20%;    
+}
+
+#img_ods{
+    height: 55%;
+    width: 95%;
+}
+
+#img_patriarcado{
+    width: 30%;
+    height: 30%;
+    padding-left: 30%;
+}
+
+#img_discriminação{
+    padding-left: 22%;
+}
+
+#violência {
+    padding-left: 35%;
+    padding-right: 35%;
+    padding-bottom: 5%;
+    width: 30%;
+    height: 59%;
+}
